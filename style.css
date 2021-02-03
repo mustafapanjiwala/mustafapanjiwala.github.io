@@ -195,7 +195,8 @@ button:focus {
 }
 
 #hire .img {
-    width: auto;
+    width: 600px !important;
+    height: auto !important;
     -o-object-fit: fill;
     object-fit: fill;
 }
